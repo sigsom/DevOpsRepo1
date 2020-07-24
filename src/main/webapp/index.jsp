@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World! First Edit for test pipeline ! </h2>
+<h2>Hello World!Testing CICD Pipeline for Ansible Tomcat ! </h2>
 </body>
 </html>
 
